@@ -1,0 +1,30 @@
+.topRight{
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.topList{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.topListItem{
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.topCenter{
+    flex:6
+}
+
+.navbar{
+    background:pink;
+    border: 2px solid;
+    
+    }
+

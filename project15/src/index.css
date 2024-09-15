@@ -1,0 +1,23 @@
+.head{
+  border: 2px solid red;
+  height: 80px;
+  background-color: pink;
+  text-align: center;
+  position: sticky;
+  
+
+
+}
+
+.temp{
+  background-color: hsl(180, 65%, 81%,0.3);
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+p{
+  color:black;
+  font-size: large;
+  
+}

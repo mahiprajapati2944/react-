@@ -1,0 +1,12 @@
+.cl{
+  border: 2px solid red;
+  height: 90px;
+  background-color: antiquewhite;
+  text-align: center;
+  border-radius: 50px;
+}
+
+.cl1{
+ margin-top: 150px;
+ margin-bottom: 150px;
+}

@@ -1,0 +1,41 @@
+.cl{
+  border: 2px solid rgb(83, 86, 210);
+  height: 90px;
+  background-color: rgb(133, 121, 137);
+  text-align:center;
+  border-radius: 50px;
+}
+
+.cl1{
+ 
+ margin-bottom: 150px;
+}
+
+.id3{
+  margin-top: -140px;
+  margin-left: 90px;
+}
+
+.id4{
+  margin-top:-4px;
+  text-align: left;
+  margin-left: 90px;
+  font-weight: 40px;
+  
+}
+
+.id5{
+  background-color: aqua;
+}
+
+.id6{
+  background-color: rgb(43, 124, 189);
+}
+
+.i{
+  background-color: pink;
+}
+ 
+body{
+  background: lightblue;
+}
